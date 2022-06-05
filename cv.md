@@ -13,4 +13,5 @@ const func  = (num) => {
 ```
 * work experience studying
 _study_
+_learn_
 _english - A2_
