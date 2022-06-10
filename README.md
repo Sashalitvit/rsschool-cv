@@ -1,1 +1,0 @@
-https://Sashalitvit.github.io/rsschool
